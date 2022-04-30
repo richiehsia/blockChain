@@ -19,11 +19,6 @@
       "description": "websocket路径",
       "value": "/ray",
       "required": true
-    },
-    "TEST": {
-      "description": "websocket路径",
-      "value": "/ray",
-      "required": true
     }
   },
   "website": "https://github.com/Lbingyi/HerokuXray",
