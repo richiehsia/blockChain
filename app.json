@@ -1,6 +1,6 @@
 {
   "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "description": "部署在Heroku上",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -12,7 +12,7 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb",
+      "value": "6af08a67-caba-41a9-bd90-1d80e3bbfa18",
       "required": false
     },
     "WS_PATH": {

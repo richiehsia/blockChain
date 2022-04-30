@@ -20,6 +20,7 @@ Heroku 为我们提供了免费的容器服务，我们不应该滥用它，所�
 ## 服务端
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Lbingyi/HerokuV2ray) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/richiehsia/blockChain) 
 
 点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面，填上应用的名称、选择节点(建议用欧洲节点，美国节点会自动删除YouTube评论与点赞！)、按需修改部分参数和UUID后点击下面`deploy`开始创建部署应用  
 如出现错误，可以多尝试几次，待部署完成后页面底部会显示`Your app was successfully deployed` 
@@ -51,7 +52,7 @@ CloudFlare Workers反代代码（分别用两个账号应用程序名（`协议`
 * 代理协议：vless 或 vmess
 * 地址：app.herokuapp.com
 * 端口：443
-* 默认UUID：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
+* 默认UUID：6af08a67-caba-41a9-bd90-1d80e3bbfa18
 * vmess额外id：0
 * 加密：auto
 * 传输协议：ws
